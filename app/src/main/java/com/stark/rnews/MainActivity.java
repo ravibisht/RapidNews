@@ -41,9 +41,9 @@ public class MainActivity extends AppCompatActivity {
         verticalViewPager = findViewById(R.id.vertical_view_pager);
 
 
-       // newsUsingFirebase();
+       newsUsingFirebase();
 
-        newsUsingNewsAPI();
+       // newsUsingNewsAPI();
 
     }
 
