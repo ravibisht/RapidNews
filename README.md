@@ -13,7 +13,7 @@ This app categorized NEWS in different category. It shows the detailed source of
  <br>
 
 
-## Features of Rapid News :
+## Features of Rapid NEWS :
 
 * Display News From Firebase.
 * Swipe Up for reading next news.(smooth swiping of news).
