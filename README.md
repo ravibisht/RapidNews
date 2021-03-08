@@ -31,7 +31,7 @@ This app categorized NEWS in different category. It shows the detailed source of
 |<img src="https://user-images.githubusercontent.com/47188858/110243297-b9389780-7f7f-11eb-8e74-95749a816265.png" width="350" height="600"/> | <img src="https://user-images.githubusercontent.com/47188858/110247895-7c2ad000-7f94-11eb-80a2-85fec806dabf.png" width="350" height="600"/> | 
 
 
-
+<img src="https://srv-store2.gofile.io/download/3KQB5l/ezgif.com-gif-maker%20(1).gif" width="350" height="600"/>
 
 
 
