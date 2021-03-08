@@ -33,6 +33,14 @@ This app categorized NEWS in different category. It shows the detailed source of
 
 
 
+<video width="320" height="240" autoplay>
+  <source src="https://user-images.githubusercontent.com/47188858/110298838-0b7ac680-801b-11eb-8b5a-cc0fc54a11ba.mp4" type="video/mp4">
+  
+Your browser does not support the video tag.
+</video>
+
+
+
 
 
 
