@@ -33,7 +33,7 @@ This app categorized NEWS in different category. It shows the detailed source of
 
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="Vh05aTw" data-context="false" ><a href="//imgur.com/Vh05aTw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://imgur.com/Vh05aTw)
 
 
 
