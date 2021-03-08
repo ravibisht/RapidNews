@@ -33,7 +33,7 @@ This app categorized NEWS in different category. It shows the detailed source of
 
 
 
-<img src="https://imgur.com/Vh05aTw" width="350" height="600"/>
+<img src="https://imgur.com/download/Vh05aTw/" width="350" height="600"/>
 
 
 
