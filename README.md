@@ -38,9 +38,6 @@ This app categorized NEWS in different category. It shows the detailed source of
 
 
 
-<img src="https://srv-store2.gofile.io/download/3KQB5l/ezgif.com-gif-maker%20(1).gif" />
-
-
 
 
 
