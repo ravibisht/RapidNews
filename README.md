@@ -1,6 +1,7 @@
 # RapidNews
-Rapid News is an android app which displays NEWS from the firebase realtime database and scrap news form the website. 
-This app categorized NEWS in different category. It shows the detailed source of the news in webview.
+Rapid News is an android app that displays NEWS from the firebase real-time database and scraps news from the website. 
+This app categorized NEWS into different categories. It shows the detailed source of the news in review.
+
 
 <h3>Security </h3>
 
